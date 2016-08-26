@@ -9,7 +9,7 @@ labels:
   - Robotics
   - Arduino
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: Developed an autonomous robotic mouse capable of finding the center of a maze.
 ---
 
 <div class="ui small rounded images">
