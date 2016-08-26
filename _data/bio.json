@@ -13,13 +13,12 @@
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
-    }
     },
     "profiles": [
       {
         "network": "github",
         "username": "jchock",
-        "url": "http://jchock.github.io
+        "url": "http://jchock.github.io"
       },
       {
         "network": "linkedin",
