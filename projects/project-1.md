@@ -13,7 +13,7 @@ summary: Developed an autonomous robotic mouse capable of finding the center of 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../iamges/Micromouse.jpg">
+  <img class="ui image" src="../images/Micromouse.jpg">
   <img class="ui image" src="../images/Mouse1.jpg">
 </div>
 
