@@ -4,11 +4,11 @@ type: project
 image: images/micromouse.jpg
 title: Micromouse
 permalink: projects/micromouse
-date: 2015
+date: 2014
 labels:
   - Robotics
-  - Arduino
-  - C++
+  - Microcontroller
+  - C
 summary: Developed an autonomous robotic mouse capable of finding the center of a maze.
 ---
 
