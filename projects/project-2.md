@@ -2,15 +2,14 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: MIPS Processor Simulation
 permalink: projects/vacay
 date: 2015
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Verilog
+  - FPGA
+  - MIPS
+summary: A MIPS processor was simulated using Verilog and an FPGA was programmed to demonstrate the simulation on hardware. This was done for EE 361, a course in computer architecture.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
