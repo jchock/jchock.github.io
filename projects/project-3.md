@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/quad.jpg
-title: Cotton
+title: Remote Life Signs Sensing
 permalink: projects/remote-life-signs-sensing
 date: 2015
 labels:
