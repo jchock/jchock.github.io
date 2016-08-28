@@ -12,7 +12,7 @@ labels:
 summary: Developed a motion detection module to be installed on a drone or quadcopter to detect human breathing while in the air.
 ---
 
-<img class="ui image" src="../images/RF Circuit with Modulation(1).png">
+<img class="ui image" src="../images/RF.jpg">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
