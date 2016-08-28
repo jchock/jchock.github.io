@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/MIPS_color.png
 title: MIPS Processor Simulation
-permalink: projects/vacay
+permalink: projects/MIPS
 date: 2015
 labels:
   - Verilog
@@ -15,10 +15,9 @@ summary: A MIPS processor was simulated using Verilog and an FPGA was programmed
 <img class="ui image" src="../images/MIPS.jpg">
 <img class="ui image" src="../images/FPGA.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Microprocessor without Interlocked Pipeline Stages, better known as [MIPS](https://en.wikipedia.org/wiki/MIPS_instruction_set), is a computer instruction set architecture with relatively simple instructions. A processor for MIPS instructions was simulated and implemented on a Field Programmable Gate Array (FPGA) in EE 361 during Fall 2015.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The simulations were done in [Verilog](http://www.verilog.com/) a hardware description language (HDL). The [Vivado](http://www.xilinx.com/support/university/vivado.html) IDE was used to code the simulations as well as debug them. Furthermore, Vivado was also used to program the FPGA as the simulated processor.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+This project provided me with experience for both Verilog and the Vivado IDE. Additionally, it allowed me to gain a better understanding of how MIPS processors work and how instructions are executed by computers. Overall, the project really gave me a better understanding of how computer hardware works and how software is actually run on a processor.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
