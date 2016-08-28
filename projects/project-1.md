@@ -12,7 +12,7 @@ labels:
 summary: Developed an autonomous robotic mouse capable of finding the center of a maze.
 ---
 
-<div class="ui small rounded images">
+<div class="ui rounded images">
   <img class="ui image" src="../images/Micromouse.jpg">
   <img class="ui image" src="../images/Mouse1.jpg">
 </div>
