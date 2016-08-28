@@ -9,7 +9,7 @@ labels:
   - Verilog
   - FPGA
   - MIPS
-summary: A MIPS processor was simulated using Verilog and an FPGA was programmed to demonstrate the simulation on hardware. This was done for EE 361, a course in computer architecture.
+summary: A MIPS processor was simulated using Verilog and an FPGA was programmed to demonstrate the simulation on hardware.
 ---
 
 <img class="ui image" src="../images/MIPS.jpg">
