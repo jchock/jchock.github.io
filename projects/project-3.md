@@ -20,4 +20,4 @@ As it turns out, human breathing produces a small displacement of the torso, up 
 
 This project taught me a lot about RF circuits and how they work. I never had prior experience with these types of circuits and this project showed me that they can be quite useful and have many applications. This was a small but major contribution to the overall goal of having a drone be able to go out on search and rescue missions.
 
-A short description can be found [here](http://ee.hawaii.edu/student/project.php?stc=1&pco=2&pro=33)
+A short description can be found [here](http://ee.hawaii.edu/student/project.php?stc=1&pco=2&pro=33).
