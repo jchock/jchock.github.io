@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/quad.jpg
 title: Cotton
 permalink: projects/remote-life-signs-sensing
 date: 2015
