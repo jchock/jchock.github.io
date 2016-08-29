@@ -18,7 +18,7 @@ While the front-end is what users see, I believe the back-end data analytics is 
 ## Expectations for the Future
 <img class="ui tiny right spaced image" src="../images/java.png">
 <img class="ui tiny right spaced image" src="../images/python.png">
-<img class="ui tiny right spaced image" src="../images/C#.png">
+<img class="ui tiny right spaced image" src="../images/c_sharp.png">
 
 Some of the skills I hope to develop in the future are learning more programming languages and using them to develop useful software to help society. Some of the languages I'd like to learn are Java, Python, and C#. Furthermore, I'd like to hone my skills with the current languages I know including C/C++, JavaScript and HTML/CSS. I've yet to get more experience developing software with these languages.
 
