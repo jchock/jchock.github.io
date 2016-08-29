@@ -7,7 +7,9 @@ labels:
   - Engineering
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">
+<img class="ui tiny right spaced image" src="../images/c_cpp.jpg">
+<img class="ui tiny right spaced image" src="../images/angular.png">
+
 
 ## Interests in Software Engineering
 
