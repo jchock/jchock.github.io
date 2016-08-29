@@ -16,6 +16,9 @@ So far in my college career, I've found an interest in front-end and back-end so
 While the front-end is what users see, I believe the back-end data analytics is the more important of the two. Without a back-end to any software, the front-end becomes nothing more than an interface for users to interact with nothing. In the back-end, I'm particularly interested in algorithm development and database management. These two parts of the back-end are significant and allow the front-end to display appropriate information.
 
 ## Expectations for the Future
+<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">
+<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">
+<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">
 
 Some of the skills I hope to develop in the future are learning more programming languages and using them to develop useful software to help society. Some of the languages I'd like to learn are Java, Python, and C#. Furthermore, I'd like to hone my skills with the current languages I know including C/C++, JavaScript and HTML/CSS. I've yet to get more experience developing software with these languages.
 
