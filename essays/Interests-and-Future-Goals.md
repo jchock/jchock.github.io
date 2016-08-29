@@ -13,9 +13,9 @@ labels:
 
 ## Interests in Software Engineering
 
-So far in my college career, I've found an interest in front-end and back-end software development. I really enjoy programming a user interface and making things as user-friendly as possible. The front-end is really all users see when they go to a website or use a web application, paying little to no attention to what goes on behind the scenes. This fact provides me with an extra motivation to really impress users with the final product.
+So far in my college career, I've found an interest in front-end and back-end software development. I've worked with Angular.js as a web framework and I really enjoy programming a user interface and making things as user-friendly as possible. The front-end is really all users see when they go to a website or use a web application, paying little to no attention to what goes on behind the scenes. This fact provides me with an extra motivation to really impress users with the final product.
 
-While the front-end is what users see, I believe the back-end data analytics is the more important of the two. Without a back-end to any software, the front-end becomes nothing more than an interface for users to interact with nothing. In the back-end, I'm particularly interested in algorithm development and database management. These two parts of the back-end are significant and allow the front-end to display appropriate information.
+While the front-end is what users see, I believe the back-end data analytics is the more important of the two. For the back-end, I've used C/C++ to implement different algorithms for data processing. Without a back-end to any software, the front-end becomes nothing more than an interface for users to interact with nothing. In the back-end, I'm particularly interested in algorithm development and database management. These two parts of the back-end are significant and allow the front-end to display appropriate information.
 
 ## Expectations for the Future
 <img class="ui tiny right spaced image" src="../images/java.png">
