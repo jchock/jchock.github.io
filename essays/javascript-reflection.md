@@ -5,24 +5,20 @@ title: JavaScript Reflection
 date: 2016-08-31
 labels:
   - Software Engineering
-  - JavaScaript
+  - JavaScript
 ---
 
-<img class="ui tiny right spaced image" src="../images/c_cpp.jpg">
-<img class="ui tiny right spaced image" src="../images/angular.png">
+## Thoughts on JavaScript
+
+Since I've had prior experience working with JavaScript, I haven't really learned anything new about JavaScript from this module. I did a similar type of online tutorial that taught me all of the basics of JavaScript. I believe JavaScript is a great language to use for software development because of its versatility. It has many applications and I feel that it's a lot easier to pick up than C/C++. That being said, there are quite a few similarities between JavaScript and C/C++ which makes it easy to learn for people who have experience with C/C++.
+
+## Thoughts on Athletic Software Engineering
+
+In my opinion, I do like this type of learning. It offers a different approach to learning that I haven't experienced before. The weekly WODs will provide consistent practice with JavaScript and the practice WODs do a good job preparing me for the weekly WOD by giving me a taste of what type of problem I'll need to solve and the JavaScript tools I'll use to solve it. I'm confident that I'll continue to find the weekly WODs enjoyable and interesting throughout the semester and it will definitely work for me.
+
+## Final Thoughts
+
+Overall, I like JavaScript as a programming language. It is the first language I've learned that is widely used to do top-level programming and web development in particular. Ever since I first started to use JavaScript, I knew it would be a language that I'd appreciate. With JavaScript, I can actually see my code in action on a webpage, whereas in C/C++, I provide input on a terminal window and my program does data analytics in the background to produce output. This is one of my favorite things about front-end web development and JavaScript lets me accomplish it with ease.
 
 
-## Interests in Software Engineering
 
-So far in my college career, I've found an interest in front-end and back-end software development. I've worked with Angular.js as a web framework and I really enjoy programming a user interface and making things as user-friendly as possible. The front-end is really all users see when they go to a website or use a web application, paying little to no attention to what goes on behind the scenes. This fact provides me with an extra motivation to really impress users with the final product.
-
-While the front-end is what users see, I believe the back-end data analytics is the more important of the two. For the back-end, I've used C/C++ to implement different algorithms for data processing. Without a back-end to any software, the front-end becomes nothing more than an interface for users to interact with nothing. In the back-end, I'm particularly interested in algorithm development and database management. These two parts of the back-end are significant and allow the front-end to display appropriate information.
-
-## Expectations for the Future
-<img class="ui tiny right spaced image" src="../images/java.png">
-<img class="ui tiny right spaced image" src="../images/python.png">
-<img class="ui tiny right spaced image" src="../images/c_sharp.png">
-
-Some of the skills I hope to develop in the future are learning more programming languages and using them to develop useful software to help society. Some of the languages I'd like to learn are Java, Python, and C#. Furthermore, I'd like to hone my skills with the current languages I know including C/C++, JavaScript and HTML/CSS. I've yet to get more experience developing software with these languages.
-
-Some experiences I'd like to have in the future are working on large scale software projects intended for numerous users (i.e. cyber security software, game development, etc.). So far, I've only worked on small projects within groups in classes with no real impact on society. Though these are also valuable experiences, nothing can compare to that of working on software intended for actual people. Another experience I'd like to have is to work at a big company like Apple or Microsoft. Regardless of what I need to do, I'd want to know what it's like to have a rigorous work schedule and be able to satisfy customers worldwide.
