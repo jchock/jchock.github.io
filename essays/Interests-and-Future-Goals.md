@@ -4,7 +4,8 @@ type: essay
 title: My Interests and Future Goals
 date: 2016-08-26
 labels:
-  - Engineering
+  - Software Engineering
+  - Skills
 ---
 
 <img class="ui tiny right spaced image" src="../images/c_cpp.jpg">
