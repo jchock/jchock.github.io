@@ -61,6 +61,8 @@
         "Angular.js",
         "D3.js",
         "MATLAB",
+        "VHDL",
+        "Verilog",
       ]
     },
     {
@@ -73,6 +75,11 @@
         "CentOS",
         "Git/GitHub",
         "g++",
+        "Cmake",
+        "IntelliJ",
+        "Clion",
+        "Eclipse",
+        "Vivado",
       ]
     }
   ],
@@ -86,10 +93,19 @@
       "gpa": "3.5",
       "courses": [ 
         "EE 160: Programming in C",
-        "EE 260: Introduction to Digital Design",
         "EE 205: Object Oriented Programming (C++)",
+        "EE 211: Basic Circuit Analysis I",
+        "EE 213: Basic Circuit Analysis II",
+        "EE 260: Introduction to Digital Design",
+        "EE 296: Sophomore Design Project",
+        "EE 315: Signals and Systems Analysis",
+        "EE 323: Microelectronic Circuits"
+        "EE 324: Physical Electronics",
+        "EE 342: EE Probability and Statistics",
         "EE 361: Digital System Design",
         "EE 367: Computer Data Structures and Algorithms",
+        "EE 371: Engineering Electromagnetics I",
+        "EE 396: Junior Design Project",
         "EE 468: Introduction to Operating Systems",
         "ICS 314: Software Engineering I"
       ]
