@@ -59,6 +59,7 @@
         "Javascript",
         "HTML/CSS",
         "Angular.js",
+        "D3.js",
         "MATLAB",
       ]
     },
@@ -83,11 +84,28 @@
       "startDate": "2013-08-26",
       "endDate": "Present",
       "gpa": "3.5",
-      "courses": [
+      "courses": [ 
+        "EE 160: Programming in C",
+        "EE 260: Introduction to Digital Design",
+        "EE 205: Object Oriented Programming (C++)",
+        "EE 361: Digital System Design",
+        "EE 367: Computer Data Structures and Algorithms",
+        "EE 468: Introduction to Operating Systems",
+        "ICS 314: Software Engineering I"
       ]
     }
   ],
   "work": [
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "EE Undergraduate Teaching Assistant",
+      "website": "",
+      "startDate": "2016-08-22",
+      "endDate": "present",
+      "summary": "Undergraduate teaching assistant for the Electrical Engineering department",
+      "highlights": [
+        ]
+    },
     {
       "company": "SPAWAR Systems Center Pacific",
       "position": "Intern",
@@ -107,6 +125,12 @@
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "Centennial Scholarship",
+      "date": "2013-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarship awarded to incoming freshmen with outstanding high school GPA and scoring on SAT and/or ACT."
     },
   ],
   "references": [
