@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Git Going with Configuration Management
-date: 2016-08-31
+date: 2016-09-15
 labels:
   - Software Engineering
   - Configuration management
