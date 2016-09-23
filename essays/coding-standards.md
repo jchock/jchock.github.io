@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Making ESLint Happy
+title: Coding According to Standards
 date: 2016-09-22
 labels:
   - Software Engineering
