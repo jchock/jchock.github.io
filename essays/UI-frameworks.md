@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Semantics of Semantic UI
-date: 2016-10-6
+date: 2016-10-06
 labels:
   - Software Engineering
   - UI Frameworks
