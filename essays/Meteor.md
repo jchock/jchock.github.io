@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Meteor: Out of this World
+title: Meteor is Out of This World
 date: 2016-10-16
 labels:
   - Software Engineering
