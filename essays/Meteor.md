@@ -9,6 +9,7 @@ labels:
 ---
 
 <img class="ui tiny right spaced image" src="../images/meteor.png">
+
 ## Where am I?
 
 After spending about 7 weeks learning about JavaScript, HTML, CSS, and Semantic UI, I thought learning Meteor was going to be a smooth ride. I was terribly mistaken. The ride so far seems more like launching into space at what seems like the speed of light. Lots of concepts are flying past me and I have no idea what's going on. Thankfully, the rocket is running out of fuel and things are slowing down. I'm finally getting an understanding of how Meteor works. 
