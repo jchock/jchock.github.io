@@ -14,7 +14,7 @@ Since I've had prior experience working with JavaScript, I haven't really learne
 
 ## Thoughts on Athletic Software Engineering
 
-In my opinion, I do like this type of learning. It offers a different approach to learning that I haven't experienced before. The weekly WODs will provide consistent practice with JavaScript and the practice WODs do a good job preparing me for the weekly WOD by giving me a taste of what type of problem I'll need to solve and the JavaScript tools I'll use to solve it. I'm confident that I'll continue to find the weekly WODs enjoyable and interesting throughout the semester and it will definitely work for me.
+In my opinion, I do like this type of learning. It offers a different approach to learning that I haven't experienced before. The weekly exercises will provide consistent practice with JavaScript and other software engineering principles. The practice exercises do a good job preparing me for the weekly ones by giving me a taste of what type of problem I'll need to solve and the JavaScript tools I'll use to solve it. I'm confident that I'll continue to find the weekly exercises enjoyable and interesting throughout the semester and it will definitely work for me.
 
 ## Final Thoughts
 
