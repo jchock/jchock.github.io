@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/home-page-edit.png
+image: images/home-page.png
 title: Get Good
 permalink: projects/get-good
 date: 2016
