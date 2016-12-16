@@ -63,6 +63,8 @@
         "MATLAB",
         "VHDL",
         "Verilog",
+        "SemanticUI",
+        "Meteor.js",
       ]
     },
     {
